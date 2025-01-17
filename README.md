@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Data Storage](#data-storage)
 - [Future Improvements](#future-improvements)
-- [Author](#author)
 
 ---
 
