@@ -1,0 +1,8 @@
+Full Name           ID   Phone Number        Seat Number         Meal Preference     
+-------------------------------------------------------------
+-1 0 -1 0 0 -1 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 
+Mahnoor Yasin       1    08456327123         50                  1                   
+Sana Gujar          2    03218765341         1                   1                   
+Haya Khan           3    08753512671         6                   1                   
+Ahmed Khan          4    02196734521         3                   3                   
+Ali Khan            5    09873452617         10                  2                   
